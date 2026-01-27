@@ -12,5 +12,6 @@ def test_connection():
     except Exception as e:
         print(f"连接失败: {e}")
 
-if __name__ == "__main__":
-    test_connection()
+if __name__ == "__main__"
+
+    # 桑科
